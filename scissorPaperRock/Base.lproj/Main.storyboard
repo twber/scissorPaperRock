@@ -79,10 +79,10 @@
                                 </connections>
                             </segmentedControl>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0X7-Ue-PIT">
-                                <rect key="frame" x="224" y="598" width="123" height="41"/>
+                                <rect key="frame" x="218" y="598" width="136" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="STAROVER "/>
+                                <state key="normal" title="STARTOVER "/>
                                 <connections>
                                     <action selector="starOver:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vhK-Sq-fAw"/>
                                 </connections>
@@ -103,7 +103,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="146" y="168"/>
+            <point key="canvasLocation" x="-212" y="74"/>
         </scene>
     </scenes>
     <resources>
